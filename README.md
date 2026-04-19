@@ -26,6 +26,4 @@ The transcriptomic analyses use public datasets from the Gene Expression Omnibus
 Mitochondrial gene annotation is based on MitoCarta 3.0.
 
 The associated proteomics dataset has been submitted to the iProX repository (ProteomeXchange Consortium) under project ID IPX0015035000, ProteomeXchange ID PXD072912.
-| `14_subtype_difference_analysis.R` | Summarizes subtype-associated differences across genes, pathways, or sample-level features. |
-| `15_subtype_enrichment_analysis.R` | Performs functional enrichment analysis for subtype-associated genes. |
-| `16_proteomics_analysis.R` | Analyzes processed proteomics output, including candidate proteins, mitochondrial annotations, and pathway-level summaries. |
+
